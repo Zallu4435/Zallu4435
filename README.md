@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://nazal-core.vercel.app" target="_blank">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/muhammed-nazal-k/" target="_blank">LinkedIn</a> • 
-  <a href="YOUR_RESUME_LINK" target="_blank">Resume</a>
+  <a href="https://www.linkedin.com/in/muhammed-nazal-k" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/Zallu4435/Zallu4435/blob/main/muhammed_nazal_k.pdf" target="_blank">Resume</a>
 </p>
 
 ---
@@ -62,9 +62,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zallu4435&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zallu4435&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Zallu4435&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Zallu4435&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9"
+    alt="GitHub Streak"
+    width="70%"
+  />
 </div>
