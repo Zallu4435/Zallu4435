@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **I’m currently building:** High-performance, multi-tenant architectures and custom reverse proxies.
-- 🌱 **I’m currently learning:** Deeper system design patterns and high-throughput backend optimizations.
+- 🌱 **I’m currently learning:** Deeper system design patterns, observability stacks, and high-throughput backend optimizations.
 - 💬 **Ask me about:** The MERN stack, WebSockets, or orchestrating AI workflows.
 - 📫 **How to reach me:** Let's connect on [LinkedIn](https://www.linkedin.com/in/muhammed-nazal-k)!
 - ⚡ **Fun fact:** I built a cinematic HUD portfolio just to test my limits with math-based UI animations.
@@ -25,16 +25,16 @@
 
 ### 🚀 Projects I'm Proud Of
 
-**🎓 [University OS](https://github.com/Zallu4435/vago_university)**
-> A multi-tenant academic management platform I built from scratch. It handles complex role-based access control (RBAC), dual payment gateways (Stripe/Razorpay), and live notifications. 
+**🎓 [CampusCore Platform](https://github.com/Zallu4435/campus-core-platform)**
+> A multi-tenant academic management engine designed around complex relational hierarchies. Features native workflow isolation for administrative, faculty, and student profiles, real-time event broadcasting, and a split payment infrastructure integrating Stripe and Razorpay.
 > *Stack: MongoDB, Express, React, Node.js, Socket.io*
 
-**🤖 [Telegram AI Career Agent](https://github.com/Zallu4435/telegram-ai-career-agent)**
-> An automation bot that actually understands intent. It helps users search for jobs, extracts structured data using n8n and Gemini AI, and includes an admin approval flow right in the chat.
+**🤖 [TalentPipe AI Agent](https://github.com/Zallu4435/talentpipe-ai-agent)**
+> An asynchronous workflow automation bot orchestrated through n8n. Utilizes an intelligent intent-routing layer to toggle between structured conversational AI and anti-bot protected extraction pipelines, auto-parsing unstructured web data.
 > *Stack: n8n, Telegram API, Google Gemini, Redis*
 
-**⚡ [TunnelX — Reverse Proxy](https://github.com/Zallu4435/shorten_url)**
-> A custom reverse tunneling tool I engineered to expose local development servers to the public internet securely, utilizing persistent WebSockets and SHA-256 authentication.
+**⚡ [EdgeTunnel Proxy](https://github.com/Zallu4435/edgetunnel-proxy)**
+> A lightweight, low-latency reverse tunneling infrastructure layer that exposes local development environments to public edge endpoints utilizing persistent multiplexed WebSockets and SHA-256 handshake verification.
 > *Stack: Node.js, Python, WebSockets*
 
 ---
