@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nazal-core.vercel.app" target="_blank">Portfolio</a> • 
+  <a href="https://muhammednazal.ddns.net" target="_blank">Portfolio</a> • 
   <a href="https://www.linkedin.com/in/muhammed-nazal-k" target="_blank">LinkedIn</a> • 
   <a href="https://github.com/Zallu4435/Zallu4435/blob/main/muhammed_nazal_k.pdf" target="_blank">Resume</a>
 </p>
