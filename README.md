@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://muhammednazalk.vercel.app" target="_blank">Portfolio</a> • 
   <a href="https://www.linkedin.com/in/muhammed-nazal-k" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/Zallu4435/Zallu4435/blob/main/muhammed_nazal_k.pdf" target="_blank">Resume</a>
+  <a href="https://drive.google.com/file/d/1tR6mKAJW3c65qNLK8psnLE-qjw1ubMOX/view" target="_blank">Resume</a>
 </p>
 
 ---
